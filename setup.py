@@ -8,5 +8,5 @@ setup(
     description="My first game",
     python_requires=">=3.7",
     install_requires=["pygame==1.9.6"],
-    packages=["src"]
+    packages=["game"]
 )
